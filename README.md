@@ -32,8 +32,11 @@ Matplotlib and Seaborn: Libraries for data visualization
 
 # Analysis Steps
 Data Loading: Loading the CSV file into a Pandas DataFrame.
+
 Data Cleaning: Checking for missing values, handling inconsistencies, and preparing the data for analysis.
+
 Exploratory Data Analysis (EDA): Exploring the dataset to understand its structure, summary statistics, and initial insights.
+
 Data Visualization: Creating visualizations such as line plots, bar charts, or pie charts to illustrate sales trends, popular products, or any other relevant patterns.
 
 # Files Included
@@ -61,8 +64,11 @@ Coupon Redemption: Track the use of discount codes or coupons and their impact o
 
 # Conclusion :-
 Married women age group 26-35 yrs from UP,
+
 Maharastra and Karnataka working in IT,
+
 Healthcare and Aviation are more likely to buy products from Food,
+
 Clothing and Electronics category
 
 
