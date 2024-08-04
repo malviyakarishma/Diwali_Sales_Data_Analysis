@@ -4,7 +4,7 @@ This study conducts Exploratory Data Analysis (EDA) on Diwali sales data to unco
 # Dataset
 The dataset used for this analysis is stored in a CSV file named diwali_sales_data.csv. It includes the following columns:
 
-Date: Date of the sale
+Date: Date of the sale <br>
 Sales: Sales amount for that date
 Product: Type of product sold
 User_ID: ID of the user/customer
